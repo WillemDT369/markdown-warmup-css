@@ -2,7 +2,8 @@ body {
     background-color: #fff8cd
 }
 h3 {
-    color: #7d0633
+    color: #7d0633;
+    font-family: 'Courier New', Courier, monospace;
 }
 h4 {
     color: #0f3460

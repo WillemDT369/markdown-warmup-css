@@ -1,3 +1,9 @@
 body {
     background-color: #fff8cd
 }
+h3 {
+    color: #7d0633
+}
+h4 {
+    color: #0f3460
+}

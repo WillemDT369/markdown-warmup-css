@@ -1,5 +1,6 @@
 body {
-    background-color: #fff8cd
+    background-color: #fff8cd;
+
 }
 h3 {
     color: #7d0633;
@@ -7,4 +8,11 @@ h3 {
 }
 h4 {
     color: #0f3460
+}
+.class {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #ad5421;
+    padding: 10px;
 }

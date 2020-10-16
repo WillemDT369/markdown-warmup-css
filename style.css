@@ -7,6 +7,7 @@ body {
 }
 h3 {
     color: #7d0633;
+    font-size: 20px;
     
 }
 h4 {
@@ -28,5 +29,4 @@ ul {
 }
 .story {
     text-align: justify;
-    width: 550px;
 }
